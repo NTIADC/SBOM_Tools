@@ -1,9 +1,15 @@
 # Software Bill of Materials (SBOM) Tools
 
-The purpose of this repository is to list and describe open source and commercial/proprietary Software Bill of Materials (SBOM) Tools. For additional
+The purpose of this repository is to list and describe open source and commercial/proprietary [Software Bill of Materials (SBOM)](https://www.ntia.gov/sbom) Tools.
 
-- SPDX
-- CycloneDX
-- SWID
+## Software Package Data Exchange® (SPDX®)
+[SPDX](https://spdx.dev/) Tools:
+- [SPDX Community Tools](https://spdx.dev/spdx-tools/)
 
-**Note:** What is an SBOM? [This presentation](https://www.ntia.doc.gov/files/ntia/publications/ntia_sbom_energy_jan2021overview_0.pdf) provides a great overview of what an SBOM is. Please refer to the [NTIA Software Transparency website](https://www.ntia.doc.gov/SoftwareTransparency) for more information.
+## CycloneDX
+[CycloneDX](https://cyclonedx.org/) Tools:
+- [CycloneDX Tool Center](https://cyclonedx.org/tool-center)
+
+## SWID
+SWID Tools:
+
